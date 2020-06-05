@@ -40,7 +40,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ### How to Contribute to the Project
 
 - Install mkdoc and mkdoc   
-  -`pip install mkdocs` and `pip install mkdocs-gitbook`
+  -`pip install mkdocs` and `pip install mkdocs-ivory`
 - Format your code in pythonic format for everyone to understand
 - Use project Layout
 

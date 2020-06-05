@@ -13,7 +13,7 @@ some_url: https://example.com
 This is the first paragraph of the document.
 
 
-```
+```python
 
 # Program to check if a number is prime or not
 
@@ -41,4 +41,4 @@ else:
 ```
 
 
-![source git link](http://github.com)
+!(source git link)["http://github.com"]
