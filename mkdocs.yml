@@ -5,6 +5,7 @@ theme:
 nav:
     - Home: index.md
     - Template: template.md
+    - Cryptographic Services: Cryptographic_Services/index.md
 
 
 markdown_extensions: 
